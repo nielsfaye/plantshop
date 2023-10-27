@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+font-family: 'helvetica neue', serif;
+font-size: 18px;
+margin: 0px;
+background-color: lightcyan;
+}
+
+h2 {
+	color: white;
+}
+h1, h3 {
+font-family: 'Lato', sans-serif;
+font-weight: bolder;
+color: lawngreen;
+
+
+
+}
+a {
+text-decoration: none;
+font-family: 'Lato', serif;
+}
+
+a:hover {
+	color: black;
+	background-color: deepskyblue;
+}
+
